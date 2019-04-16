@@ -1,0 +1,50 @@
+.app-text-center {
+  text-align: center;
+}
+
+.image-list{
+  list-style-type: none;
+} 
+
+.file-info-text{
+  font-size: 3rem;
+  color: black;
+  margin-top: 3rem;
+}
+
+.file-error-text {
+  color: #a11313;
+}
+
+img{
+  width: 200px;
+}
+
+.app-center-element-horiz {
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+h1 {
+  background-color: #007bff !important;
+  color: white;
+  height: 5rem;
+  padding-top: 0.7rem;
+}
+
+.app-input {
+  width: 30rem;
+}
+
+.landing-image {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  background-image: url("./assets/landing2.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+
